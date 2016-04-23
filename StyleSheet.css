@@ -8,10 +8,11 @@ body {
 
 }
 h1 {
+  text-align: center;
   margin-bottom: 25px;
   font-family:Calibri;
   font-weight:900;
-  text-align:center;
+  
 }
 p {
 font-family:Arial;
